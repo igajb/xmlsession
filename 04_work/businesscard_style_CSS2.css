@@ -31,5 +31,5 @@ Phone{
 	font-size: 90%;
 	display: block;
 }
-Phone:before{content:attr(type)":"}
+Phone:before{content:attr(type)":"} 
 Phone[primary]:after{content: "("attr(primary)")"}
