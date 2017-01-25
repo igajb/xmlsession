@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="businesscard_style_CSS2.css"?>
+<BusinessCards>
+<BusinessCard>
+	<Name>IGA JOHN BOSCO </Name>
+	<Phone type="mobile" primary="primary"> (256) 0782925960</Phone>
+	<Phone type="home">(256) 0755382695</Phone>
+	<Phone type="fax"> 0414553322</Phone>
+	<email>igajohnb@gmail.com</email>
+</BusinessCard>
+
+<BusinessCard>
+	<Name>SHAMIMU NAMUTEBI</Name>
+	<Phone type="mobile">(256) 0782925960</Phone>
+	<Phone type="home"> (256) 0755382695</Phone>
+	<Phone type="fax"> 0414553322</Phone>
+	<email>shamimu@gmail.com</email>
+</BusinessCard>
+</BusinessCards>
